@@ -1,5 +1,4 @@
 use my_db
---Грязное чтение READ COMMITTED (1)
 
 UPDATE EMPLOYEE
 SET Phone = '86745687788' 
