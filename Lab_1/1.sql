@@ -1,0 +1,1 @@
+SELECT CAST(AVG(salary + isnull(commission, 0)) as int) as Average FROM employee
